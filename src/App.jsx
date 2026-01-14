@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1>Backend Statusadfafd   jh</h1>
+      <h1>Backend Stats</h1>
     </>
   )
 }
